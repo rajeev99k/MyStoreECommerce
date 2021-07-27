@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MyStoreECommerce-TestSuite" duration-ms="143259" started-at="2021-07-27T12:11:46Z" finished-at="2021-07-27T12:14:09Z">
+    <groups>
+    </groups>
+    <test name="MyStoreECommerce-Test" duration-ms="143259" started-at="2021-07-27T12:11:46Z" finished-at="2021-07-27T12:14:09Z">
+      <class name="testPackage.HomeTest">
+        <test-method status="PASS" signature="print()[pri:0, instance:testPackage.HomeTest@59fa1d9b]" name="print" duration-ms="1" started-at="2021-07-27T17:44:09Z" finished-at="2021-07-27T17:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- print -->
+      </class> <!-- testPackage.HomeTest -->
+      <class name="testPackage.LoginTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:testPackage.LoginTest@d8355a8]" name="Setup" is-config="true" duration-ms="115" started-at="2021-07-27T17:41:46Z" finished-at="2021-07-27T17:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testPackage.LoginTest@d8355a8]" name="setUp" is-config="true" duration-ms="92072" started-at="2021-07-27T17:41:53Z" finished-at="2021-07-27T17:43:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:testPackage.LoginTest@d8355a8]" name="loginTest" duration-ms="4272" started-at="2021-07-27T17:43:25Z" data-provider="getData" finished-at="2021-07-27T17:43:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajeev_552@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testPackage.LoginTest@d8355a8]" name="tearDown" is-config="true" duration-ms="2624" started-at="2021-07-27T17:43:30Z" finished-at="2021-07-27T17:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testPackage.LoginTest@d8355a8]" name="setUp" is-config="true" duration-ms="27095" started-at="2021-07-27T17:43:32Z" finished-at="2021-07-27T17:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:testPackage.LoginTest@d8355a8]" name="loginTest" duration-ms="6348" started-at="2021-07-27T17:43:59Z" data-provider="getData" finished-at="2021-07-27T17:44:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rajeev_550@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[passw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testPackage.LoginTest@d8355a8]" name="tearDown" is-config="true" duration-ms="1939" started-at="2021-07-27T17:44:06Z" finished-at="2021-07-27T17:44:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setData()[pri:0, instance:testPackage.LoginTest@d8355a8]" name="setData" is-config="true" duration-ms="1215" started-at="2021-07-27T17:44:08Z" finished-at="2021-07-27T17:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+      </class> <!-- testPackage.LoginTest -->
+    </test> <!-- MyStoreECommerce-Test -->
+  </suite> <!-- MyStoreECommerce-TestSuite -->
+</testng-results>

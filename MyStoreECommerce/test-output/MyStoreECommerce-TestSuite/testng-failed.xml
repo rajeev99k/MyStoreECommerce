@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MyStoreECommerce-TestSuite]">
+  <listeners>
+    <listener class-name="utilities.TestNGITestListen"/>
+  </listeners>
+  <test name="MyStoreECommerce-Test">
+    <classes>
+      <class name="testPackage.LoginTest"/>
+      <class name="testPackage.HomeTest"/>
+    </classes>
+  </test> <!-- MyStoreECommerce-Test -->
+</suite> <!-- Failed suite [MyStoreECommerce-TestSuite] -->

@@ -1,0 +1,88 @@
+23-06-2021 17:16:26 INFO [Log]: Loading Properties File
+23-06-2021 17:16:26 INFO [Log]: Loading Properties File
+23-06-2021 17:16:26 INFO [Log]: ***********************************************************************************************
+23-06-2021 17:16:26 INFO [Log]: **********************************Test Execution Started***************************************
+23-06-2021 17:16:26 INFO [Log]: Loading Properties File
+23-06-2021 17:16:27 INFO [Log]: Starting Test Setup Activities
+23-06-2021 17:16:32 INFO [Log]: Launching Chrome Browser
+23-06-2021 17:16:43 INFO [Log]: Navigating to url -> http://automationpractice.com/index.php
+23-06-2021 17:16:43 INFO [Log]: Loading Properties File
+23-06-2021 17:16:47 INFO [Log]: Clicking on SignIn link in pages.LandingPage
+23-06-2021 17:16:47 INFO [Log]: Loading Properties File
+23-06-2021 17:16:47 INFO [Log]: ===============Logging started for loginTest===============
+23-06-2021 17:16:47 INFO [Log]: loginTest:STARTED
+23-06-2021 17:16:47 INFO [Log]: Loading Properties File
+23-06-2021 17:16:47 INFO [Log]: Entering email id- rajeev_552@gmail.com
+23-06-2021 17:16:47 INFO [Log]: Entering password- passw0rd
+23-06-2021 17:16:50 INFO [Log]: Clicking on SignIn button in pages.LoginPage
+23-06-2021 17:16:50 INFO [Log]: Loading Properties File
+23-06-2021 17:16:50 INFO [Log]: loginTest:PASSED
+23-06-2021 17:16:50 INFO [Log]: ===============Logging ended for loginTest==================
+23-06-2021 17:16:51 INFO [Log]: Starting Test Setup Activities
+23-06-2021 17:16:53 INFO [Log]: Launching Chrome Browser
+23-06-2021 17:17:03 INFO [Log]: Navigating to url -> http://automationpractice.com/index.php
+23-06-2021 17:17:03 INFO [Log]: Loading Properties File
+23-06-2021 17:17:07 INFO [Log]: Clicking on SignIn link in pages.LandingPage
+23-06-2021 17:17:07 INFO [Log]: Loading Properties File
+23-06-2021 17:17:07 INFO [Log]: ===============Logging started for loginTest===============
+23-06-2021 17:17:07 INFO [Log]: loginTest:STARTED
+23-06-2021 17:17:07 INFO [Log]: Loading Properties File
+23-06-2021 17:17:07 INFO [Log]: Entering email id- Rajeev_550@gmail.com
+23-06-2021 17:17:07 INFO [Log]: Entering password- passw0rd
+23-06-2021 17:17:10 INFO [Log]: Clicking on SignIn button in pages.LoginPage
+23-06-2021 17:17:10 INFO [Log]: Loading Properties File
+23-06-2021 17:17:10 INFO [Log]: loginTest:PASSED
+23-06-2021 17:17:10 INFO [Log]: ===============Logging ended for loginTest==================
+23-06-2021 17:17:11 INFO [Log]: Loading Properties File
+23-06-2021 17:17:11 INFO [Log]: ===============Logging started for print===============
+23-06-2021 17:17:11 INFO [Log]: print:STARTED
+23-06-2021 17:17:11 INFO [Log]: Home Test started
+23-06-2021 17:17:11 INFO [Log]: print:PASSED
+23-06-2021 17:17:11 INFO [Log]: ===============Logging ended for print==================
+23-06-2021 17:17:11 INFO [Log]: **********************************Test Execution Ended*****************************************
+23-06-2021 17:17:11 INFO [Log]: ***********************************************************************************************
+27-07-2021 17:41:45 INFO [Log]: Loading Properties File
+27-07-2021 17:41:45 INFO [Log]: Loading Properties File
+27-07-2021 17:41:46 INFO [Log]: ***********************************************************************************************
+27-07-2021 17:41:46 INFO [Log]: **********************************Test Execution Started***************************************
+27-07-2021 17:41:46 INFO [Log]: Loading Properties File
+27-07-2021 17:41:53 INFO [Log]: Starting Test Setup Activities
+27-07-2021 17:43:01 INFO [Log]: Launching Chrome Browser
+27-07-2021 17:43:16 INFO [Log]: Navigating to url -> http://automationpractice.com/index.php
+27-07-2021 17:43:16 INFO [Log]: Loading Properties File
+27-07-2021 17:43:25 INFO [Log]: Clicking on SignIn link in pages.LandingPage
+27-07-2021 17:43:25 INFO [Log]: Loading Properties File
+27-07-2021 17:43:26 INFO [Log]: ===============Logging started for loginTest===============
+27-07-2021 17:43:26 INFO [Log]: loginTest:STARTED
+27-07-2021 17:43:26 INFO [Log]: Loading Properties File
+27-07-2021 17:43:26 INFO [Log]: Entering email id- rajeev_552@gmail.com
+27-07-2021 17:43:26 INFO [Log]: Entering password- passw0rd
+27-07-2021 17:43:29 INFO [Log]: Clicking on SignIn button in pages.LoginPage
+27-07-2021 17:43:30 INFO [Log]: Loading Properties File
+27-07-2021 17:43:30 INFO [Log]: Capturing customer name
+27-07-2021 17:43:30 INFO [Log]: loginTest:PASSED
+27-07-2021 17:43:30 INFO [Log]: ===============Logging ended for loginTest==================
+27-07-2021 17:43:32 INFO [Log]: Starting Test Setup Activities
+27-07-2021 17:43:41 INFO [Log]: Launching Chrome Browser
+27-07-2021 17:43:54 INFO [Log]: Navigating to url -> http://automationpractice.com/index.php
+27-07-2021 17:43:54 INFO [Log]: Loading Properties File
+27-07-2021 17:43:59 INFO [Log]: Clicking on SignIn link in pages.LandingPage
+27-07-2021 17:43:59 INFO [Log]: Loading Properties File
+27-07-2021 17:43:59 INFO [Log]: ===============Logging started for loginTest===============
+27-07-2021 17:43:59 INFO [Log]: loginTest:STARTED
+27-07-2021 17:43:59 INFO [Log]: Loading Properties File
+27-07-2021 17:44:00 INFO [Log]: Entering email id- Rajeev_550@gmail.com
+27-07-2021 17:44:00 INFO [Log]: Entering password- passw0rd
+27-07-2021 17:44:06 INFO [Log]: Clicking on SignIn button in pages.LoginPage
+27-07-2021 17:44:06 INFO [Log]: Loading Properties File
+27-07-2021 17:44:06 INFO [Log]: Capturing customer name
+27-07-2021 17:44:06 INFO [Log]: loginTest:PASSED
+27-07-2021 17:44:06 INFO [Log]: ===============Logging ended for loginTest==================
+27-07-2021 17:44:08 INFO [Log]: Loading Properties File
+27-07-2021 17:44:09 INFO [Log]: ===============Logging started for print===============
+27-07-2021 17:44:09 INFO [Log]: print:STARTED
+27-07-2021 17:44:09 INFO [Log]: Home Test started
+27-07-2021 17:44:09 INFO [Log]: print:PASSED
+27-07-2021 17:44:09 INFO [Log]: ===============Logging ended for print==================
+27-07-2021 17:44:09 INFO [Log]: **********************************Test Execution Ended*****************************************
+27-07-2021 17:44:09 INFO [Log]: ***********************************************************************************************

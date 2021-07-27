@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MyStoreECommerce-TestSuite" >
+<listeners>
+<listener class-name = "utilities.TestNGITestListen"/>
+</listeners>
+
+
+   <test name="MyStoreECommerce-Test" >
+   <!--     <classes> 
+          <class name="TestPackage.YourLogoRegistrationTest" />
+          <class name="TestPackage.YourLogoAddProductTest" />
+       </classes> --> 
+       
+         <classes> 
+          <class name="testPackage.LoginTest" />
+          <class name="testPackage.HomeTest" />
+       </classes>
+   </test>
+ </suite>
